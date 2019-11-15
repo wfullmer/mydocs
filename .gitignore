@@ -1,2 +1,3 @@
 ## list here files and folders for git to ignore
+build/
 docs/.buildinfo 
