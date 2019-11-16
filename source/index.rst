@@ -9,11 +9,6 @@ Welcome to wdf.pages's documentation!
 Hello World
 -wdf was here
 
-.. image:: _static/path/to/your/image.png
-   :scale: 10 %
-   :align: left
-   :class: intro-logo
-
 
 .. toctree::
    :maxdepth: 2
