@@ -17,7 +17,7 @@ Hello World
    proj/index
    vids/index
    pubs/index
-   confs/index
+   talks/index
 
 
 Indices and tables
