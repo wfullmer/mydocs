@@ -14,10 +14,10 @@ Hello World
    :maxdepth: 1
    :caption: Contents:
 
-   proj/index.rst
-   vids/index.rst
-   pubs/index.rst
-   confs/index.rst
+   proj/index
+   vids/index
+   pubs/index
+   confs/index
 
 
 Indices and tables
