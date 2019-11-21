@@ -11,7 +11,7 @@ Hello World
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    proj/index

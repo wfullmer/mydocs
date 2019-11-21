@@ -1,7 +1,7 @@
 .. _pubs.js:
 
 Journal Articles
-================
+----------------
 
 25.  Justin Weber, William Fullmer, Jordan Musser, and Aytekin Gel, 
      Optimization of a Cyclone using Multiphase Flow Computational 

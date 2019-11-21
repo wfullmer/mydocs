@@ -3,14 +3,16 @@
 Publications
 ============
 
-.. toctree::
-   :maxdepth: 1
+.. include:: books.rst
 
-   books
-   js
-   confs
-   tech
-   unpub
+.. include:: js.rst
+
+.. include:: confs.rst
+
+.. include:: tech.rst
+
+.. include:: unpub.rst
+
 
 
 
