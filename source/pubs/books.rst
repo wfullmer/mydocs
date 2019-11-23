@@ -1,7 +1,3 @@
-.. _pubs.books:
-
-Books, Monographs & Chapters 
-----------------------------
 
 1.   Martín López de Bertodano, William Fullmer, Alejandro Clausse, and Victor Ransom, 
      Two-Fluid Model Stability, Simulation and Chaos, Springer International Publishing, 

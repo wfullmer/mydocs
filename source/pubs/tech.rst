@@ -1,7 +1,3 @@
-.. _pubs.tech:
-
-Technical Reports
------------------
 
 8.   William D. Fullmer, Steven Dahl, and Justin Weber, Surrogate 
      Modeling Approach to Uncertainty Quantification for a DEM Model of a 

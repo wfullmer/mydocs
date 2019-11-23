@@ -1,7 +1,4 @@
-.. _pubs.unpub:
 
-Unpublished Manuscripts
------------------------
 
 2.   William D. Fullmer, Ann S. Almgren, Michele Rosso, Johannes Blaschke, 
      Jordan Musser, Benchmarking of a preliminary MFiX-Exa code, 

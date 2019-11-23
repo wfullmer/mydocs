@@ -1,7 +1,3 @@
-.. _pubs.confs:
-
-Peer-Reviewed Conference Papers 
--------------------------------
 
 14.  Justin Weber, Jordan Musser, Aytekin Gel and William D. Fullmer, 
      Optimization of a Cyclone using Multiphase Flow Computational Fluid 
