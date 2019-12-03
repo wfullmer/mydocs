@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'wdf.pages'
+project = 'my docs'
 copyright = '2019, wdf'
 author = 'wdf'
 
