@@ -24,7 +24,7 @@ Proposal Writing Experience
 Fellowships and Honors
 ----------------------
 
-*  American Institute of Chemists, Post-doctoral ???, 2017. 
+*  2018 American Institute of Chemists Postdoc Award
 
 *  US Department of Energy Nuclear Energy University Program (NEUP) Fellowship, 2009 - 2012.
 
