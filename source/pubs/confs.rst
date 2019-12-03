@@ -1,4 +1,3 @@
-
 14.  Justin Weber, Jordan Musser, Aytekin Gel and William D. Fullmer, 
      Optimization of a Cyclone using Multiphase Flow Computational Fluid 
      Dynamics, *ASME-JSME-KSME 2019 Joint Fluids Engineering Conference*, 
