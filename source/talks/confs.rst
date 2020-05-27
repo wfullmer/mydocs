@@ -1,3 +1,7 @@
+12.  William Fullmer, Jordan Musser, Ann Almgren, John Bell and Michele Rosso. 
+     Benchmarking Activities with MFiX-Exa. *ASME V&V Symposium*, Virtual Conference, 
+     May 20-22, (2020). 
+
 11.  William Fullmer, Jordan Musser, Ann Almgren, Michele Rosso, Oscar Antepara, 
      Roberto Porcu. Qualitative benchmarking of a developmental CFD-DEM Code. 
      *72*\ :sup:`nd` \ *Annual APS DFD*, Seattle USA, Nov. 23-26 (2019).
