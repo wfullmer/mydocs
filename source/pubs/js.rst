@@ -1,14 +1,14 @@
 
-25.  Justin Weber, William Fullmer, Jordan Musser, and Aytekin Gel, 
+24.  William D. Fullmer and Jordan Musser, Preliminary study on the influence 
+     of in situ filter size in CFD-DEM transfer kernel, *Particuology*, 
+     **51**, 205--209 (2020).
+     `DOI. <https://doi.org/10.1016/j.partic.2019.11.001>`__  
+
+23.  Justin Weber, William Fullmer, Jordan Musser, and Aytekin Gel, 
      Optimization of a Cyclone using Multiphase Flow Computational 
-     Fluid Dynamics, Journal of Fluids Engineering, (submitted). 
-
-24.  William D. Fullmer, Ann S. Almgren, Michele Rosso, John B. Bell, Jordan Musser, 
-     Robustness of CFD-DEM to Algorithmic Changes: Initial Benchmarking of MFiX-Exa, 
-     *Powder Technology*, (submitted)
-
-23.  William D. Fullmer and Jordan Musser, Preliminary study on the influence 
-     of in situ filter size in CFD-DEM transfer kernel, Particuology (accepted). 
+     Fluid Dynamics, *Journal of Fluids Engineering*, **142** (2), 
+     031111 (2020). 
+     `DOI. <https://doi.org/10.1115/1.4045952>`__
 
 22.  William D. Fullmer, Jonathan E. Higham, Casey Q. LaMarche, 
      Allan Issangya, Ray Cocco, Christine M. Hrenya, Comparison of Velocimetry 
@@ -35,7 +35,7 @@
 18.  William D. Fullmer, Casey Q. LaMarch, Allan Issangya, Peiyuan Liu, 
      Ray Cocco and Christine M. Hrenya, Experimental Data for Code Validation: 
      Horizontal Air Jets in a Semicircular Fluidized Bed of Geldart Group D 
-     Particles, AIChE Journal, 64 (7), 2351--2363 (2018). 
+     Particles, *AIChE Journal*, **64** (7), 2351--2363 (2018). 
      `DOI. <https://doi.org/10.1002/aic.16128>`__
 
 17.  William D. Fullmer and Christine M. Hrenya, The homogeneous cooling state 

@@ -1,4 +1,7 @@
 
+3.   William D. Fullmer, Ann S. Almgren, Michele Rosso, John B. Bell, Jordan Musser, 
+     Robustness of CFD-DEM to Algorithmic Changes: Initial Benchmarking of MFiX-Exa, 
+     *Powder Technology*, (rejected). 
 
 2.   William D. Fullmer, Ann S. Almgren, Michele Rosso, Johannes Blaschke, 
      Jordan Musser, Benchmarking of a preliminary MFiX-Exa code, 

@@ -2,6 +2,7 @@
      Optimization of a Cyclone using Multiphase Flow Computational Fluid 
      Dynamics, *ASME-JSME-KSME 2019 Joint Fluids Engineering Conference*, 
      AJKFLUIDS2019-5182, San Francisco, CA USA, July 28-August 1, (2019).
+     `DOI. <https://doi.org/10.1115/AJKFluids2019-5182>`__
 
 13.  Avinash Vaidheeswarn, William D. Fullmer, Krishna Chetty, Raul G. Marino 
      and Martin A. Lopez de Bertodano, Stability analysis of chaotic wavy 
